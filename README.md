@@ -78,7 +78,8 @@ Dataset was cleaned and transformed before being loaded into Power BI.
 ---
 
 ## Dashboard Preview
-![Dashboard Screenshot](Screenshot.png)
+<img width="1035" height="579" alt="Screenshot (14)" src="https://github.com/user-attachments/assets/edc7c543-e49e-487f-a589-970ccc5d48ad" />
+
 
 ---
 
